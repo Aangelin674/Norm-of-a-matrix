@@ -15,8 +15,8 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 
 # 1-Norm of a Matrix
 '''
-Developed by : G Sindhu Priya Reddy
-Registration Number : 212224040319
+Developed by : ANGELIN GRACY.R
+Registration Number : 25007261
 '''
 import numpy as np
 matrix = eval(input())
@@ -30,8 +30,8 @@ print("{:.2f}".format(norm1))
 
 '''
 Program to find 2-norm of a matrix.
-Developed by: G Sindhu Priya Reddy
-RegisterNumber: 212224040319
+Developed by: R.ANGELIN GRACY
+RegisterNumber: 25007261
 '''
 import numpy as np
 matrix = eval(input())
